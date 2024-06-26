@@ -1,0 +1,9 @@
+.selectClass {
+  width: 15vh;
+}
+
+@media (max-width: 500px) {
+  .selectClass {
+    width: 8vh;
+  }
+}

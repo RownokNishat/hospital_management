@@ -1,0 +1,58 @@
+.hospital {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.heading {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  border: 0px;
+  background-color: rgb(40,167,69);
+  padding: 10px;
+  border-radius: 5px;
+}
+.hospitalDiv {
+  margin-top: 50px;
+}
+.dashboardDoctorImage {
+  width: 100px;
+  height: 100px;
+}
+.doctorCard {
+  height: 310px;
+  margin-top: 20px;
+  transition: transform 1s;
+
+    box-shadow: 6px 6px 6px 6px rgb(245, 233, 214);
+}
+.doctorCard:hover {
+  transform: scale(1.1);
+  box-shadow: 6px 6px 6px 6px rgb(230, 234, 239);
+}
+.doctorImage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.doctorDetails {
+  width: auto;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.doctorAppoinment {
+  height: 50px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+  .heading {
+    font-size: 20px;
+    font-weight: 700;
+  }
+}

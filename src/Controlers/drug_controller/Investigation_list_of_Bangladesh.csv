@@ -1,0 +1,247 @@
+﻿hc_investigation_name
+CBC
+Hb%
+TC (of WBC)
+DC (of WBC)
+ ESR
+TC,DC,Hb,ESR
+TC,DC,Hb,ESR (Haematology Analyzer)
+TC,DC,Hb,ESR,CPBF
+Platelets (Count)
+Circulating Eosinophil Count
+PCV (Haematocrit)
+Reticulocyte Count
+MP (Malarial Parasite)
+BT
+CT
+Prothrombin Time
+Stool RE/ME
+Stool RE 
+Stool ME
+Stool R/S
+Stool OBT 
+Urine RE/ME
+Urine RE 
+Urine ME
+Urine for Pregnancy Test
+Bile Salt 
+Bile Pigment
+Specific Gravity 
+UTP
+Ketone Bodies 
+Urobilinogen 
+Bence Jones Protein 
+Widal Test 
+Well Felix Test 
+ASO Titer
+RA Test 
+CRP Test
+VDLR(RPR)
+TPHA
+DNA/ANA/ANF/ENA
+DNA
+ANA
+ANF
+ENA
+DNA/ANA/ANF/ENA ( by ELISA)
+DNA ( by ELISA)
+ANA (by ELISA)
+ANF (by ELISA)
+ENA (by ELISA)
+HBsAg (ICT)
+HBsAg confirmatory (by ELISA)
+Anti HCV (ICT)
+HIV (Screening)
+ICT for Filariasis
+ICT for Kala-Azar
+AFP (Alfa Feto Protein)
+Hexagon TB (ICT)
+PSA (ICT)
+PSA quantitative (by ELISA)
+Troponin I
+IgE (ICT)
+H. Pylori
+ABO Group & RH factor 
+AT test
+Anti HAV (ICT)
+Dengue (ICT)
+Malaria (ICT)
+HBeAg (ICT)
+HBeAg (By ELISA)
+Blood Sugar 
+S. Creatinine 
+Blood Urea 
+S. Cholesterol 
+S. Triglyceride 
+S. Lipid Profile 
+S. Bilirubin 
+Bilirubin ( Direct & Indirect)
+Bilirubin ( Direct )
+Bilirubin ( Indirect)
+SGPT
+SGOT
+Alkaline Phosphatase 
+S. Acid Phosphatase 
+S. Total Protein & A:G ratio
+S. Total Protein  
+S. Albumin 
+S. Globulin 
+S. Uric Acid
+S. Calcium 
+S. CK-MB
+S. LDH
+S. CPK
+"S. T3,T4,TSH ( Three sample)"
+S. T3
+S.T4
+S. TSH 
+"S. T3,T4,TSH ( Any sample)"
+S.LH
+S. FSH
+S. Prolactin
+S. Testosterone
+S. Progesterone 
+ S. β HCG Test 
+Anti HCV (ELISA)
+Anti HEV (ELISA)
+Anti HBc (ELISA)
+Anti DS DNA (ELISA)
+S. Electrolytes 
+Tuberculin Test (MT)
+Culture & Sensitive 
+Sputum for AFB
+Sputum for Fluorescent Stain 
+Prostatic Smear 
+Urethral Smear 
+Skin Scraping for Fungus 
+Semen Analysis 
+Pap Smear
+HVS M/E
+CSF study 
+Bone Marrow 
+"Body Fluid (Cyto, M/E, B/C)"
+Body Fluid (Cyto)
+Body Fluid (M/E)
+Body Fluid (B/C)
+LD bodies smear 
+Histopatthology 
+Cytology for Malignant Cell
+FNAC
+ECG (Normal)
+ECG( Computerized)
+Echo (Normal)
+Echo ( Cardiogram Color Doppler)
+EEG
+ETT
+USG-Whole Abdomen
+
+USG Pregnancy Profile (PP)
+"USG Penis,Testes,Scrotum"
+USG Penis
+USG Testes
+USG Scrotum
+USG Breast (Right)
+USG Breast (Left)
+USG Breast (Both)
+USG (Color)
+TVS
+Endoscopy 
+Colonoscopy 
+X-ray (One Film)
+X-ray (Digital)
+X-Ray LSS both view
+X-Ray LSS Digital 
+X-Ray C/S both View 
+X-Ray C/S Digital 
+X-Ray Neck both View
+X-Ray Neck Digital 
+X-Ray Shoulder Both View
+X-Ray Shoulder Digital 
+X-Ray Barium Meal (Two film)
+X-Ray Barium Meal Digital 
+X-Ray Barium Swallow 
+X-Ray Barium S/D/ Digital 
+X-Ray Barium Meal Follow Through 
+X-Ray Barium Meal Digital 
+X-Ray Barium Enema 
+X-Ray Barium Digital 
+X-Ray OCG ( with contract media)
+X-Ray OCG 
+X-Ray Gystogram (with dye)
+X-Ray Urethrogram (with dye)
+X-Ray IVU with dye
+X-Ray IVU (with dye) Digital 
+Dental X-ray
+Portable X-ray first 
+Portable X-ray Digital 
+Following Each film /Digital
+Mammography (Both)
+Mammography (Right)
+Mammography (Left)
+CT-Scan Brain 
+CT-Scan Lower Abdomen with contrast 
+CT-Scan Upper Abdomen with contrast
+CT-Scan Whole Abdomen 
+CT-Scan W/A 
+CT-Scan Orbit Sinus 
+MRI (Individual-Plain)
+MRI (Contrast-Plain
+"TC,DC,ESR,Hb%"
+ALP
+Uric Acid
+Blood Culture 
+Urine Culture 
+Stool Culture 
+Aldehyde Test
+Urine (Routine Examination)
+Urine (Pregnancy Test)
+Stool Examination 
+"BT,CT"
+BT
+CT
+Lipid Profile 
+Radiotherapy - Single
+Radiotherapy Double (Whole)
+Stimulation 
+Cobbalt-60 Machine 
+Blood Trnsfusion- Screenig 
+Blood Grouping 
+Rh D Factor
+Cross Matching 
+Antibody Detection 
+Antibody Titer 
+HIV 
+"Blood Grouping, Cross Matching, Screening"
+Hemodialysis HBsAg
+Hemodialysis HBsAg (Positive)
+Hemodialysis HBsAg(Negative)
+Hemodialysis Bicarbonate 
+Peritoneal dialysis 
+Kidney Biopsy 
+Upper GI Endoscopy (Video)
+Upper GI Endoscopy (Clo Test)
+Upper GI Endoscopy (Sedation)
+Video Colonoscopy (Full)
+Video Colonoscopy (Short)
+Procto-Sigmoidoscopy (Video)
+Procto- Sigmoidoscopy (Rigid)
+Bronchoscopy 
+Angiogram 
+Echo (Normal)
+Echo( Color)
+NCS -Rt.upper Limb
+NCS -Left Upper Limb
+NCS -Both upper Limbs
+NCS -Left  Lower Limb
+NCS -Rt Lower limb
+NCS -Both Lower Limbs
+NCS -Four(04) limbs
+EMG- Rt. upper Limb
+EMG- Left Upper Limb
+EMG- Both upper Limbs
+EMG- Left  Lower Limb
+EMG- Right Lower Limb
+EMG- Both Lower Limbs
+EMG- Four(04) limbs
+NCS+ EMG
+RNS

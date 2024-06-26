@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=The+Nautigal:wght@700&display=swap');
+.heading {
+    width: 50%;
+    margin-top: 0px;
+    background-color: green;
+    padding: 5px;
+    color: white;
+    padding-left: 2%;
+}
+.pdf_heading {
+    width: 50%;
+    margin-top: 0px;
+    background-color: green;
+    padding: 5px;
+    color: white;
+    padding-left: 2%;
+    font-size: 30px;
+}
+.doctor_details {
+    padding-left: 5%;
+    padding-top: 10px;
+}
+
+.pdf_Doctor_details {
+    padding-left: 2%;
+    padding-top: 3px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.doctor_name {
+    color: royalblue;
+}
+
+.doctor_degree {
+    color: red;
+}
+
+.doctor_degree2 {
+    color: royalblue
+}
+
+.pdf_doctor_degree2 {
+    color: royalblue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.doctor_designation {
+    color: green;
+}
+
+.doctor_no {
+    font-size: 17px;
+}
+.pdf_doctor_no {
+    font-size: 14px;
+}
+.pdf_fellow_id{
+    font-size: 14px;
+    margin-left: 15px;
+}
+.chamber_details {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.chambers{
+    cursor: pointer;
+}
+
+.specialist_image {
+    width: 150px;
+    height: 160px;
+}
+.specialist_image1 {
+    width: 30px;
+    height: 30px;
+}
+
+.patient_details_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(177, 225, 82);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.pdf_patient_details_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(177, 225, 82);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.ulComponent {
+    position: absolute;
+    background: white;
+    z-index: 100;
+    top: 70px;
+    left: 10px;
+    width: 35%;
+    height: 150px;
+    overflow-x: scroll;
+    box-shadow: 0px 0px 10px 10px rgba(130, 129, 129, 0.112);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px
+}
+
+.liComponent {
+    padding: 5px;
+    cursor: pointer;
+    font: 200 12px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+    background-color:#ffffff
+}
+
+ul li:hover {
+    font-size: 20px;
+    background: #aed3c563;
+}
+
+.patient_details {
+    width: 96%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pdf_patient_details {
+    width: 96%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.chief_complain_div {
+    padding-top: 2px;
+}
+
+.past_history_div {
+    padding-top: 3px;
+}
+
+.pdf_past_history_div {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.chief_complains {
+    margin-bottom: 7px;
+    position: relative;
+}
+
+.addButton {
+    width: 40px;
+    height: 30px;
+    border: 1px solid #00b4cc;
+    background: #00b4cc;
+    text-align: center;
+    color: #fff;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.removeButton {
+    width: 40px;
+    height: 30px;
+    border: 1px solid #DC3545;
+    background: #DC3545;
+    text-align: center;
+    color: #fff;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.pastHisaddButton {
+    margin-top: 8px;
+    width: 40px;
+    height: 30px;
+    border: 1px solid #00b4cc;
+    background: #00b4cc;
+    text-align: center;
+    color: #fff;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.leftSideHeader {
+    display: flex;
+    margin-top: 10px;
+    color: royalblue;
+}
+
+.pdf_leftSideHeader {
+    display: flex;
+    margin-top: 4px;
+    color: royalblue;
+    margin-bottom: 0rem;
+    margin-left: 40px;
+}
+
+
+.pastHisremoveButton {
+    margin-top: 8px;
+    width: 40px;
+    height: 30px;
+    border: 1px solid #DC3545;
+    border-radius: 40px;
+    background: #DC3545;
+    text-align: center;
+    color: #fff;
+    
+    cursor: pointer;
+    font-size: 15px;
+    margin-left: 5px;
+
+}
+.pdf_cheif_complains{
+    padding-left: 20px;
+    border-left: 1px solid black;
+}
+.medicineListHeader {
+    font-family: 'The Nautigal', cursive;
+    font-size: 35px;
+    color: blue;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+.medStyle{
+    font-family: 'Gentium Book Plus', cursive;
+    font-size: 35px;
+}
+
+.medicineList {
+    padding-left: 15px;
+}
+
+/* .input{
+    height: 35px;
+} */
+
+
+.doctorDegreeBCS__style {
+    display: flex !important;
+    align-items: center;
+   
+}
+
+.pdfdoctorDegreeBCS__style {
+    display: flex !important;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.doctorDegree__style {
+    display: flex !important;
+    align-items: center;
+    color: red;
+
+}
+
+.pdfdoctorDegree__style {
+    display: flex !important;
+    align-items: center;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.searchTearm {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 35%;
+    border: 2px solid rgb(90, 89, 89);
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    color: black;
+    height: 100%;
+    font-size: 12px;
+}
+
+.searchTearm2 {
+   margin-left: 15px;
+    margin-bottom: 10px;
+    width: 35%;
+    border: 2px solid rgb(90, 89, 89);
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    color: black;
+    font-size: 12px;
+}
+
+.searchTearm3 {
+    margin-left: 15px;
+     margin-bottom: 10px;
+     width: 50px;
+     margin-right: 5px;
+     border: 2px solid rgb(90, 89, 89);
+     padding: 5px;
+     border-radius: 5px;
+     outline: none;
+     color: black;
+     font-size: 12px;
+ }
+
+ .footer{
+    border-top: 1px solid black;
+    
+ }
+.MedicineReactionHeader{
+    display: flex;
+    margin-top: 10px;
+    color: royalblue;
+    margin-left: 20px;
+}
+.medicine{
+    border-left: 1px solid black;
+}
+.suggestions{
+    border-left: 1px solid black;
+    margin-top: 250px;
+
+}
+
+.pdf_suggestions{
+    border-left: 1px solid black;
+    margin-top: 100px;
+
+}
+
+.suggestionList{
+    
+    margin-left: 20px;
+    /* margin-top: 10px; */
+    margin-right: 30px;
+}
+.saveButtonDiv{
+    text-decoration: none;
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+.saveButton{
+    
+    margin-right: 20px;
+    border: 2px ;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #00b4cc;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+}
+.saveButtonDisable{
+    
+    margin-right: 20px;
+    border: 2px ;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #7f7f7f;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+}
+
+.pdf_secondRow{
+    width: 70%;
+    justify-content: center;
+    margin-left: 70px;
+    
+}
+
+
+** advice **
+.adviceSection{
+    margin-left: 100px;
+    border-left: 1px solid black;
+}
+.adviceDiv{
+    min-width: 80%;
+    
+}
+.adviceList{
+    min-width: 80%;
+    
+}
+.addAdviceButton{
+    background-color: #00b4cc;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 0px solid ;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+input[type="checkbox"]:not(:first-child){
+    margin-left: 30px;
+}
+/* input[type="checkbox"]{
+    
+} */
+
+.largeCheckboxs{
+    width: 15px;
+    height: 15px;
+}
+#nonFooter {
+    min-height: calc(100vh - 30px);
+    position:relative;
+   
+}
+
+#footer {
+    height:30px;
+    margin: 0;
+    clear: both;
+    width:100%;
+    position:absolute;
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url("https://kendo.cdn.telerik.com/2017.2.621/styles/fonts/DejaVu/DejaVuSans.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-weight: bold;
+    src: url("https://kendo.cdn.telerik.com/2017.2.621/styles/fonts/DejaVu/DejaVuSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-style: italic;
+    src: url("https://kendo.cdn.telerik.com/2017.2.621/styles/fonts/DejaVu/DejaVuSans-Oblique.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://kendo.cdn.telerik.com/2017.2.621/styles/fonts/DejaVu/DejaVuSans-Oblique.ttf") format("truetype");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100;300&display=swap');
+
+@media (max-width: 1260px) {
+    .heading {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1260px) {
+    .heading {
+        width: 70%;
+    }
+}
+
+@media (max-width: 790px) {
+    .heading {
+        width: 80%;
+    }
+}
+
+@media (max-width: 680px) {
+    .heading {
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .heading {
+        width: 100%;
+    }
+
+    .patient_details {
+        padding: 5px;
+    }
+}

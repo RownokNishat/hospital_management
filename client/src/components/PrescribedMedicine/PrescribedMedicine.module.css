@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap");
+
+.medicineList {
+  padding-left: 15px;
+}
+
+.addButton {
+  width: 40px;
+  height: 30px;
+  border: 1px solid #00b4cc;
+  background: #00b4cc;
+  text-align: center;
+  color: #fff;
+  border-radius: 40px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+.removeButton {
+  width: 40px;
+  height: 30px;
+  border: 1px solid #dc3545;
+  background: #dc3545;
+  text-align: center;
+  color: #fff;
+  border-radius: 40px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+.medicineListHeader {
+  font-family: "The Nautigal", cursive;
+  font-size: 35px;
+  color: blue;
+  margin-left: 15px;
+  margin-top: 12px;
+}
+
+.searchTearm {
+  margin-left: 5px;
+  margin-top: 8px;
+  margin-bottom: 10px;
+  width: 40%;
+  border: 2px solid rgb(90, 89, 89);
+  padding: 5px;
+  border-radius: 5px;
+  outline: none;
+  color: black;
+  height: 100%;
+  font-size: 12px;
+  /* overflow: 'hidden'; */
+  position: relative;
+}
+
+.secondRow {
+  display: flex;
+  margin-left: 15px;
+}
+
+.removeAdd {
+  margin-left: calc(2vw);
+}
+
+.dataResult {
+  margin-top: 5px;
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.ulComponent {
+  position: absolute;
+  background: white;
+  z-index: 100;
+  top: 115px;
+  left: 150px;
+  width: 40%;
+  height: 300px;
+  overflow-x: scroll;
+  box-shadow: 0px 0px 10px 10px rgba(130, 129, 129, 0.112);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-radius: 5px;
+}
+
+.liComponent {
+  padding: 5px;
+  cursor: pointer;
+  font: 200 12px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+  background-color: #ffffff;
+}
+
+ul li:hover {
+  font-size: 20px;
+  background: #aed3c563;
+}

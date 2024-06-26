@@ -1,0 +1,32 @@
+.inputField{
+    width: 150px;
+}
+
+.pastHisremoveButton {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #DC3545;
+    border-radius: 5px;
+    background: #DC3545;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.pastHisaddButton {
+    
+    width: 25px;
+    height: 25px;
+    border: 1px solid #00b4cc;
+    background: #00b4cc;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    margin-left: 2px;
+    margin-top: 4px;
+}
